@@ -1,5 +1,7 @@
 <?php
-printf "Hello, World! php version is " . PHP_VERSION . "";
-printf "A change is in the air!";
-printf "Web console project!";
+print "Hello, World! php version is " . PHP_VERSION . "";
+<br>
+print "A change is in the air!";
+<br>
+print "Web console project!";
 ?>
